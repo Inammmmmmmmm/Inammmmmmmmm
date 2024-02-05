@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Inammmmmmmmm
-- 👀 I’m interested in 
+- 👀 I’m interested in AI based projects
 - 🌱 I’m currently working on JAVA, PHP, THML, JAVASCRIPT, PYTHON, REACT NATIVE, FLUTTER, SWIFT, RUBY,  Cloud Computing
 - 💞️ I’m looking to collaborate on meta, microsoft, snapchat!
 - 📫 How to reach me https://www.upwork.com/freelancers/~01c689689d84eb00e6
